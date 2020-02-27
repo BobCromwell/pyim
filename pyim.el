@@ -124,7 +124,7 @@
 
 ;;   :bind
 ;;   (("M-j" . pyim-convert-string-at-point) ;与 pyim-probe-dynamic-english 配合
-;;    ("C-;" . pyim-delete-word-from-personal-buffer)))
+;;    ("C-;" . pyim-delete-word)))
 ;; #+END_EXAMPLE
 
 ;; *** 添加词库文件
